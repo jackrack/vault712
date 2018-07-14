@@ -18,7 +18,7 @@ wget https://raw.githubusercontent.com/jackrack/Vault712/master/vault712.sh
 
 ![alt text](https://user-images.githubusercontent.com/32465294/34165766-18ca3724-e4d5-11e7-9077-427a79e215d2.png)
 
-**This script has been updated and is now compatible with Testnet 2**
+**This script has been updated and is now compatible with Testnet 3**
 
 This script is mainly used for testing and fast deployment of the latest Grin as well as testing features in the latest Grin build. 
 
